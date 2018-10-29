@@ -12,6 +12,19 @@ body {
     background-attachment: fixed;
     z-index: -1;
 }
+
 #mainText{
     margin-top: 30vh;
+}
+
+#intro{
+    margin-top: 50px;
+}
+
+#work{
+    background-color: rgb(61,61,61);
+}
+
+#p1{
+    height: 350px;
 }
